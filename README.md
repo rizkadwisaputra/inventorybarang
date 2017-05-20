@@ -1,5 +1,5 @@
 # inventorybarang
-source code inventory barang, dibuar menggunakan php native dan mysql sebagai database. Program ini bersifat opensource.<br/>
+source code inventory barang, dibuat menggunakan php native dan mysql sebagai database.<br/>
 beberapa fitur inventory barang ini<br/>
 <ol>
 <li>data barang</li>
